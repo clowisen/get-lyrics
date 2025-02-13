@@ -13,7 +13,7 @@
 2. Write your token in the "GENIUS_TOKEN" section in the .env file.
 > GENIUS_TOKEN = yourtoken
 
-## requirements
+# requirements
 1. Open the cmd.
 2. cd <project_path>
 3. Enter the:
@@ -21,5 +21,4 @@
 pip install -r requirements.txt
 ```
 
-# Done!
 
