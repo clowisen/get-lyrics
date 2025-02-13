@@ -21,5 +21,8 @@
 ```
 pip install -r requirements.txt
 ```
-
+# Info
+1. This application was made with python language.
+2. Tkinter was used as GUI.
+3. googletrans, lyricsgenius, pyperclip, spotipy libraries were used.
 
