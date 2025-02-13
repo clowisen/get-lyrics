@@ -13,6 +13,6 @@
 2. Write your token in the "GENIUS_TOKEN" section in the .env file.
 > GENIUS_TOKEN = yourtoken
 
-# requirements
+## requirements
 
- ```pip install -r requirements.txt```
+ ``pip install -r requirements.txt``
