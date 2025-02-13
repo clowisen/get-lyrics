@@ -15,7 +15,7 @@
 
 ## requirements
 1. Open the cmd.
-2. cd <projectpath>
+2. cd <project_path>
 3. Enter the:
 ```
 pip install -r requirements.txt
