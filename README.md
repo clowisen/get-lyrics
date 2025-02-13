@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/6d68fcc7-0286-4c3d-852e-e9251b6248bb)
 # API Keys
 
 ### Spotify
