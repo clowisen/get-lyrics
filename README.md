@@ -1,2 +1,5 @@
-# get-lyrics
-A simple software to translate the lyrics of currently playing song on Spotify or any song.
+# API Keys
+
+### Spotify
+To authorize Spotify to be able to display the currently playing song, click on the link below and create an application.
+<a href="https://developer.spotify.com/dashboard">Spotify for Developers</a>
