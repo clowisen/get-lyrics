@@ -147,7 +147,7 @@ def get_lyrics(artist, song):
 
 def manuel_get_lyrics():
     manuel = Toplevel(root)
-    manuel.iconbitmap("C:\PR\GetLyrics\icon\icon.ico")
+    manuel.iconbitmap("C:\PR\GetLyrics\logo.ico")
     manuel.grab_set()
     manuel.resizable(False,False)
     manuel.geometry("220x140")
