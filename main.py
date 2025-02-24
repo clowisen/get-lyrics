@@ -15,7 +15,7 @@ load_dotenv()
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=os.getenv('CLIENT_ID'), client_secret=os.getenv('CLIENT_SECRET'), redirect_uri=os.getenv('REDIRECT_URL'), scope="user-read-currently-playing"))
 
 root = tk.Tk()
-root.iconbitmap("C:\PR\GetLyrics\icon\icon.ico")
+root.iconbitmap("C:\PR\GetLyrics\logo.ico")
 root.configure(bg="#4f4f4f")
 
 LANGUAGES = {
